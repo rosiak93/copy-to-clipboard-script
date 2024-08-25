@@ -1,0 +1,4 @@
+# Ignoruj pliki zawierające credentials
+*.env
+config/*.json
+config/*.yaml
