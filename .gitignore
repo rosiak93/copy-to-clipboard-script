@@ -3,4 +3,5 @@
 config/*.json
 config/*.yaml
 notatki.md
-gitInfo.md
+invisibles/
+.bashrc
